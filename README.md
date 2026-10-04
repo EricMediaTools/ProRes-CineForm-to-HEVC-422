@@ -80,3 +80,30 @@ This tool uses a free, industry-standard engine called **FFmpeg** to talk direct
     1. Master Grade (QP 15 - Nearly lossless, best for 4K punch-ins)
     2. Balanced (QP 18 - Great quality, ~40% smaller files)
     3. Delivery / Archival (QP 22 - Smallest footprint for review copies)
+
+    ---
+
+## 🖥️ Supported Graphics Cards (Full Hardware Compatibility)
+
+This tool requires an NVIDIA GPU featuring **9th-Generation NVENC or newer** to enable native hardware 10-bit 4:2:2 Range Extensions (`rext`).
+
+### Desktop GPUs:
+* **NVIDIA GeForce RTX 5090**
+* **NVIDIA GeForce RTX 5080**
+* **NVIDIA GeForce RTX 5070 Ti**
+* **NVIDIA GeForce RTX 5070**
+* **NVIDIA GeForce RTX 5060 Ti**
+* **NVIDIA GeForce RTX 5060**
+* *All future NVIDIA GeForce RTX 60-series and subsequent generations.*
+
+### Laptop & Mobile GPUs:
+* **RTX 5090 Laptop GPU**
+* **RTX 5080 Laptop GPU**
+* **RTX 5070 Laptop GPU**
+* **RTX 5060 Laptop GPU**
+
+### Professional / Workstation GPUs:
+* **NVIDIA RTX Blackwell Generation Workstation Cards** (RTX 5000 Ada successors / B-series enterprise GPUs)
+
+> **Note for Older Cards (RTX 40-series, 30-series, 20-series):**  
+> Earlier NVIDIA architectures (Ada Lovelace, Ampere, Turing) physically lack 4:2:2 hardware silicon. While this script will execute, older GPUs will reject the 4:2:2 profile or fall back to 4:2:0. True hardware 10-bit 4:2:2 requires an RTX 50-series card or newer.
