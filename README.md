@@ -1,5 +1,17 @@
 # RTX 50-Series (Blackwell) & Newer Broadcast Video Transcoder
 
+> ### 📥 Quick Download (For Non-Tech Users)
+> **You do NOT need a GitHub account or any coding tools.**
+> 1. Look near the top-right of this page for the green **`<> Code`** button.
+> 2. Click it, then click **`Download ZIP`**.
+> 3. Extract the ZIP on your computer.
+> 4. Move **`Broadcast_Mezzanine_Compressor_RTX50.bat`** to your Desktop then select your video files and drag them over thise ".bat" file.
+>
+> *(Alternatively, click directly on `Broadcast_Mezzanine_Compressor_RTX50.bat` in the file list above, then click the **Download raw file** button on the far right).*
+
+---
+
+
 A simple, tool where you drag-and-drop your videos onto the .bat icon that compresses massive camera originals and editing masters (**Apple ProRes**, **GoPro CineForm**, and **Avid DNxHR**) into high-efficiency **10-bit 4:2:2, 4:4:4, or 4:2:0 HEVC** files using your NVIDIA graphics card.
 
 No command-line typing or coding knowledge required.
