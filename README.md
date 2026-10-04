@@ -1,4 +1,4 @@
-# RTX 50-Series (Blackwell) & Newer Broadcast Video Transcoder
+# RTX 50XX-Series (Blackwell) & Newer Broadcast Video Transcoder
 
 > ### 📥 Quick Download (For Non-Tech Users)
 > **You do NOT need a GitHub account or any coding tools.**
