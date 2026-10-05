@@ -5,7 +5,7 @@
 > 1. Look near the top-right of this page for the green **`<> Code`** button.
 > 2. Click it, then click **`Download ZIP`**.
 > 3. Extract the ZIP file anywhere on your computer.
-> 4. Move **`ProRes_to_HEVC_Broadcast_422_v1.1.bat`** to your Desktop (or right-click it and create a desktop shortcut).
+> 4. Move **`ProRes_to_HEVC_Broadcast_422_v1.2.bat`** to your Desktop (or right-click it and create a desktop shortcut).
 > 5. **How to Use:** Select your video files in Windows File Explorer and **drag and drop them directly onto the `.bat` file icon**.
 >
 > *(Alternatively, click directly on `ProRes_to_HEVC_Broadcast_422_v1.1.bat` in the file list above, then click the **Download raw file** button on the far right).*
